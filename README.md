@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Web Application security using VAPT<br>👯 I’m looking to collaborate on Frontend development projects<br>🤝 I’m looking for help with VAPT<br>🌱 I’m currently learning Ajax<br> 📫 How to reach me **hemanthmandarapu13@gmail.com**
+🔭 Intern at <b>GLOBAL TECHNOLOGICS<b> <br>👯 I’m looking to collaborate on Frontend development projects<br>🤝 I’m looking for help with VAPT<br>🌱 I’m currently learning Ajax<br> 📫 How to reach me **hemanthmandarapu13@gmail.com**
 
 
 ## 🌐 Socials:
