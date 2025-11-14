@@ -8,9 +8,6 @@
 👯 I’m looking to collaborate on Data Engineering projects<br>
 📫 How to reach me **hemanthmandarapu13@gmail.com**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemanth-18-2002&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
