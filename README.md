@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hemanth</h1>
-<h3 align="center">A passionate Engineer Graduate with 1 Year of Professional experience in Testing</h3>
+<h3 align="center">A passionate Engineer Graduate with 1 Year of Professional experience in Testing and open to work on data Engineering roles</h3>
 
 
 
 # 💫 About Me:
 🔭 Date Engineer Intern at **Revature**<b> <br>
 🤝 Ready to kickstart Career <br>
-👯 I’m looking to collaborate on Frontend development projects<br>
+👯 I’m looking to collaborate on Data Engineering projects<br>
 📫 How to reach me **hemanthmandarapu13@gmail.com**
 
 
