@@ -5,7 +5,6 @@
 
 # 💫 About Me:
 🔭 Date Engineer Intern at **Revature**<b> <br>
-🤝 Ready to kickstart Career <br>
 👯 I’m looking to collaborate on Data Engineering projects<br>
 📫 How to reach me **hemanthmandarapu13@gmail.com**
 
